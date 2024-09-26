@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #AB23C2;
+    font-family: "New Amsterdam", system-ui;
+  font-family: "Matemasie", system-ui;
+  color: white;
+  font-size: 20px
+}
+
+input[type="checkbox"]{
+  transform: scale(2);
+  margin-right: 30px;
+}
+
+input[type="text"]{
+  font-size: 30px;
+  width: 230px;
+  border-radius: 200px;
+  border: solid 4px black;
+}
+
+.hidden{
+  display: none;
+}
+
+.botao{
+  background-color: grey;
+   font-family: "New Amsterdam", system-ui;
+  color: black;
+  border: 2px solid white;
+  border-radius: 200px;
+  font-size: 25px;
+}
+
+.botao:hover{
+  background-color: white;
+  border: solid 2px grey;
+}
+
+
+
+
+
+
+fonte corpo font-family: "Matemasie", system-ui;
